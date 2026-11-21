@@ -2,7 +2,7 @@
 
 Sistem kontrol robot beroda diferensial (differential drive) yang mengikuti **jalur yang digambar langsung dengan mouse** di atas tampilan kamera. Posisi dan arah hadap robot dilacak secara real-time menggunakan **marker ArUco** lewat kamera yang dipasang di atas area kerja, lalu perintah motor dikirim ke **ESP32** melalui **WebSocket**.
 
-<img width="1600" height="900" alt="MENDETEKSI ArUco" src="https://github.com/user-attachments/assets/ea899621-ea9e-458f-9973-4d76ba4c3df6" />
+<img width="680" height="382" alt="asffsdfwdfgger" src="https://github.com/user-attachments/assets/bb9b9bd3-28ae-4d94-8de4-758443a32f0b" />
 
 https://github.com/user-attachments/assets/13d531f7-f0ea-47b9-8805-614617504d05
 
