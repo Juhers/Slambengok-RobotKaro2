@@ -365,4 +365,4 @@ Teks lengkap lisensi ada di file [LICENSE](LICENSE).
 
 ## Author
 
-Dibuat oleh **M. Zuhayr Ramadhan, Agus Satriawan, M. Fahrezi Abbas Amahoru, Muh. Adhe Syarif, dan Muh. Abid Hadli **. Untuk saran dan perbaikan, silakan buka [issue](https://github.com/Juhers/Slambengok-RobotKaro2/issues) atau ajukan [pull request](https://github.com/Juhers/Slambengok-RobotKaro2/pulls).
+Dibuat oleh M. Zuhayr Ramadhan, Agus Satriawan, M. Fahrezi Abbas Amahoru, Muh. Adhe Syarif, dan Muh. Abid Hadli. Untuk saran dan perbaikan, silakan buka [issue](https://github.com/Juhers/Slambengok-RobotKaro2/issues) atau ajukan [pull request](https://github.com/Juhers/Slambengok-RobotKaro2/pulls).
